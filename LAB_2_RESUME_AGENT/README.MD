@@ -123,7 +123,7 @@ with this JSON schema
 
 ![Click Generate response](images/image24.png)
 
-![Configured prompt example](images/image25.png)
+![Example Generate response](images/image25.png) (edit this one)
 
 Output would be simliar like this
 
@@ -131,9 +131,7 @@ Output would be simliar like this
 
 4) Now add new flow to upload candidate's resume 
 
-![upload 1st candiate's resume](images/image26.png)
-
-![upload 1st candiate's resume](images/image27.png)
+![Drag File Upload blog](images/image27.png)
 
 change name to  **Resume uploader1**
 
